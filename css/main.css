@@ -50,7 +50,7 @@ body{
 }
 @media only screen and (max-width: 767px) {
 	.home-inner {
-	  /*background: url("img/chef.png");*/
+	  background: url("https://loopyhole.github.io/Codechef-Campus-Chapter-IIIT-DWD/css/img/chef.png");
 	  background-size: contain;
 	  background-repeat: no-repeat;
 	}
