@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+#team {
+  text-align: center;
+
+}
+
+#team .title {
+  font-weight: bold;
+}
+
+#team .subtext {
+  font-size: 14px;
+  margin-top: -1.2vw;
+}
+
+.col-half-offset{
+  margin-left:3%
+}
+
+.img-thumbnail {
+  width: 140px;
+}
