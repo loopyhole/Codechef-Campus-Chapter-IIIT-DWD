@@ -518,14 +518,6 @@ select:-moz-focusring {
 ul {
   list-style: none;
 }
-
-body {
-  font: 18px/1.5 "Open Sans", sans-serif;
-  background: var(--bodyColor);
-  color: var(--white);
-  margin: 1.5rem 0;
-}
-
 .container {
   max-width: 800px;
   margin: 0 auto;
