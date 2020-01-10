@@ -1,4 +1,5 @@
-@import url('https://fonts.googleapis.com/css?family=Lato:700&display=swap');
+@charset "UTF-8";
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,700");
 body{
   overflow-x: hidden;
   font-family: Courier;
@@ -50,7 +51,7 @@ body{
 }
 @media only screen and (max-width: 767px) {
 	.home-inner {
-	  background: url("https://loopyhole.github.io/Codechef-Campus-Chapter-IIIT-DWD/css/img/chef.png");
+	  background: url("./img/chef.png");
 	  background-size: contain;
 	  background-repeat: no-repeat;
 	}
@@ -632,5 +633,3 @@ ul {
 .img-thumbnail {
   width: 140px;
 }
-
-
